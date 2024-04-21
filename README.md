@@ -62,6 +62,7 @@ not(notgate,a);
 endmodule
 
 **half adder**
+
 module HalfAdder(a,b,sum,carry);
 
 input a,b;
@@ -75,6 +76,7 @@ and (carry,a,b);
 endmodule
 
 **full adder**
+
 module FA(a,b,cin,sum,cout);
 
 input a,b,cin;
@@ -96,6 +98,7 @@ or g5(cout,w2,w3);
 endmodule
 
 **half subtractor**
+
 module halfsubtractor(a,b,diff,borrow);
 
 input a,b;
@@ -109,6 +112,7 @@ and g2(borrow,~a,b);
 endmodule
 
 **full subtractor**
+
 module full_sub(a,b,bin,diff,borrow);
 
 input a,b,bin;
@@ -130,6 +134,7 @@ and g5(w3,~w1,bin);
 endmodule
 
 # 8-bit ripple adder
+
 module fa(a,b,c,sum,carry);
 
 input a,b,c;
@@ -187,5 +192,7 @@ full adder:
 *![image](https://github.com/REkha18s/VLSI-LAB-EXP-1/assets/161815097/a49d6d03-3ed3-40bd-931e-b5a993408745)
 
 
-RESULT:
+**RESULT**:
+Thus the simulation and synthesis of Logic Gates,Adders and Subtractors using vivado has been sucessfully executed and verified .
+
 
