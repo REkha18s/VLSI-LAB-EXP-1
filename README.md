@@ -178,17 +178,17 @@ fa fa8(a[7],b[7],c7,sum[7],cout);
 endmodule
 
 OUTPUT:
-logic gates:
+**logic gates**:
 ![image](https://github.com/REkha18s/VLSI-LAB-EXP-1/assets/161815097/9eb526a8-07d0-4515-b35b-a3783a4b405f)
-half adder:
+**half adder**:
 ![image](https://github.com/REkha18s/VLSI-LAB-EXP-1/assets/161815097/84daa406-096e-45e5-bcd7-97df1d28067a)
-full adder:
+**full adder**:
 ![image](https://github.com/REkha18s/VLSI-LAB-EXP-1/assets/161815097/0b30fb3d-a5de-4668-9fa9-30a406743256)
-half subtractor:
+**half subtractor**:
 ![image](https://github.com/REkha18s/VLSI-LAB-EXP-1/assets/161815097/cd439c24-b332-4a16-b02a-314ae79b416a)
-full adder:
+**full adder**:
 ![image](https://github.com/REkha18s/VLSI-LAB-EXP-1/assets/161815097/822dad73-b13f-4b30-bb65-80ce66c0b90a)
-8- ripple carry adder
+**8- ripple carry adder**:
 *![image](https://github.com/REkha18s/VLSI-LAB-EXP-1/assets/161815097/a49d6d03-3ed3-40bd-931e-b5a993408745)
 
 
